@@ -26,10 +26,13 @@ h3 {
     margin-left: auto;
     margin-right: auto;
     width: 65%;
-  
-}
+  }
 
-/*Navigation Bar*/
+.g-ytsubscribe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 .searchbar {
   float: right;
